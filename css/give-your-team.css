@@ -1,0 +1,91 @@
+.block_find_search {
+  position: relative;
+  height: 60px;
+  width: 280px;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #222222;
+  background: #ffffff;
+  border-radius: 6px 0px 0px 6px;
+}
+.block_find_site_search {
+  position: absolute;
+  font-size: 14px;
+  line-height: 20px;
+  color: #222222;
+}
+.give-your-team_section {
+  max-width: 100%;
+  height: 720px;
+  background-image: url(/img/give-your-team/01.png);
+}
+.give-your-team_title {
+  font-size: 36px;
+  line-height: 46px;
+  margin-bottom: 40px;
+}
+.give-your-team-block_text {
+  font-size: 16px;
+  margin-bottom: 16px;
+  line-height: 24px;
+}
+.block_find {
+  border-radius: 0px 6px 6px 0px;
+  height: 60px;
+  width: 123px;
+  padding: 20px 35px;
+}
+.block_find a {
+  font-size: 13px;
+  line-height: 20px;
+  color: #ffffff;
+}
+.give-your-team_block {
+  display: flex;
+  flex-direction: column;
+  padding-top: 161px;
+  width: 516px;
+  margin-bottom: 186px;
+}
+.give-your-team_block_find {
+  display: flex;
+}
+.give-your-team_block_info {
+  height: 171px;
+  width: 1200px;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 4px rgba(232, 230, 230, 0.6);
+  border-radius: 6px;
+}
+.give-your-team_block_info_text {
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 7px;
+}
+.give-your-team_block_info_text-text {
+  font-size: 14px;
+  line-height: 20px;
+}
+.give-your-team_block_info_card{
+  display: flex;
+  align-items: center;
+  width: 327px;
+  height: 71px;
+  margin-right: 45px;
+}
+.give-your-team_block_info_card img{
+  padding-right: 10px;
+}
+.give-your-team_block_info_card-text{
+  display: flex;
+  flex-direction: column;
+  width: 276px;
+}
+.give-your-team_block_info_block{
+  display: flex;
+  align-items: center;
+  height: 171px;
+  width: 1200px;
+  margin: 0px 50px;
+}
